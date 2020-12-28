@@ -1,0 +1,19 @@
+# The rest
+*           text=auto eol=lf
+
+# Rust project files
+*.rs        rust
+*.toml      text
+Cargo.lock  linguist-generated=false
+
+# Dart project files
+*.dart      dart
+*.yaml      text
+
+# Documentation
+*.md        text
+LICENSE     text
+
+# Media
+*.jpg       binary
+*.png       binary
